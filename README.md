@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sriyabulusu
-- 👀 I’m interested in Robotics and AI
-- 🌱 I’m currently learning Java, JavaScript, and Python
-- 📫 How to reach me: my email is sriya.bulusu@gmail.com
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning Java, JavaScript, and Go
+- 📫 Feel free to reach out to me at sriya.bulusu@gmail.com
